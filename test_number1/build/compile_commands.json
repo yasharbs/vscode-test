@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/yashar/git_test_cpp/test_number1/build",
+  "command": "/usr/bin/c++  -I/usr/include/eigen3 -g -o CMakeFiles/test_number1.dir/main.cpp.o -c /home/yashar/git_test_cpp/test_number1/main.cpp",
+  "file": "/home/yashar/git_test_cpp/test_number1/main.cpp"
+},
+{
+  "directory": "/home/yashar/git_test_cpp/test_number1/build",
+  "command": "/usr/bin/c++  -I/usr/include/eigen3 -g -o CMakeFiles/test_number1.dir/test.cpp.o -c /home/yashar/git_test_cpp/test_number1/test.cpp",
+  "file": "/home/yashar/git_test_cpp/test_number1/test.cpp"
+}
+]
